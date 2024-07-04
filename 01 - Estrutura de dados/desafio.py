@@ -103,7 +103,7 @@ def listar_contas(contas):
         print(textwrap.dedent(linha))
 
 
-def main():
+def main()
     LIMITE_SAQUES = 3
     AGENCIA = "0001"
 
